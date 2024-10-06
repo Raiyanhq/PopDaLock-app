@@ -11,3 +11,7 @@ In this game, players are presented with a rotating lock dial. Your task is to t
 - Multiple Difficulty Levels: Start from an easy level and work your way up as the number of targets increases.
 - Simple Controls: Just tap to play—timing is key!
 - Minimalist Design: Clean and user-friendly interface, making the game easy to navigate and enjoy.
+
+#### How To Play:
+
+-
