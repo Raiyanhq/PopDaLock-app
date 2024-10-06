@@ -14,4 +14,7 @@ In this game, players are presented with a rotating lock dial. Your task is to t
 
 #### How To Play:
 
--
+- Tap the screen to stop the marker when it aligns with the target area.
+- If you hit the target accurately, the lock will continue rotating to the next target.
+- Continue hitting the targets until all are completed to unlock the lock and move to the next level.
+- Be careful—if you miss a target, the level restarts!
