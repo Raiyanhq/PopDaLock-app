@@ -18,3 +18,25 @@ In this game, players are presented with a rotating lock dial. Your task is to t
 - If you hit the target accurately, the lock will continue rotating to the next target.
 - Continue hitting the targets until all are completed to unlock the lock and move to the next level.
 - Be careful—if you miss a target, the level restarts!
+
+
+
+##### Requirements
+
+- Xcode: Version 12.0 or later
+- iOS: Version 11.0 or later
+
+
+
+
+
+
+
+
+
+
+
+
+#### Contributing
+
+##### Contributions are welcome! Please feel free to submit pull requests to improve the game.
